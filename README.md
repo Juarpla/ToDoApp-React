@@ -1,4 +1,4 @@
-# Todo App - WDD 430: week 01
+# Todo App - WDD 430: week 01 ⚛️ ⚛
 
 This is a W01 Assignment: React Introduction Project, called ToDo App - by Web Dev Simplified
 
